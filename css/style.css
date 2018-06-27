@@ -83,7 +83,7 @@ span{
   color: white;
 }
 .btn1{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 700px;
   font-size: 15px;
   color: #373737;
@@ -94,7 +94,7 @@ span{
   margin-bottom: 5%;
 }
 .btn2{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 700px;
   font-size: 15px;
   color: #373737;
@@ -105,7 +105,7 @@ span{
   margin-bottom: 5%;
 }
 .btn3{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 700px;
   font-size: 15px;
   color: #373737;
@@ -116,7 +116,7 @@ span{
   margin-bottom: 5%;
 }
 .btn4{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 700px;
   font-size: 15px;
   color: #373737;
@@ -150,3 +150,15 @@ span{
   width: 100%;
   margin-top: 5%;
 }
+ .btn6{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700px;
+  font-size: 15px;
+  color: #ffffff;
+  background-color:#F6A800;
+  width: 100%;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+ }
