@@ -46,6 +46,8 @@ span{
 }
 .btniniciar{
   background-color: #F6A800;
+  text-align: center;
+  color: #373737;
 }
 
 /* Inicio cambios pagina de menu*/
@@ -161,4 +163,46 @@ span{
   border-left: 0;
   border-right: 0;
   border-bottom: 0;
+ }
+ /* Pantalla preguntas frecuentes */
+
+ .question5{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700px;
+  font-size: 15px;
+  text-align: center;
+  color: #373737;
+  margin-top: 60%;
+ }
+ .dropdown-menu{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700px;
+  font-size: 15px;
+  text-align: center;
+  color: #373737;
+   margin-left: 2%;
+   margin-right:2%; 
+ }
+ .banner{
+   width: 100%;
+ }
+ .question6{
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700px;
+  font-size: 15px;
+  text-align: center;
+  color: #373737;
+  margin-top: 20%;
+ }
+ .preguntasfrecuentes{
+   background-color: #F6A800;
+   width: 100%;
+  height: 400%;
+
+ }
+ .text3{
+  color: white;
+  text-align: center;
+  
+
  }
