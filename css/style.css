@@ -1,1 +1,49 @@
-/* YeyeYeee código aquí */
+
+.firstBody{
+  background-color: #3E3F41;
+}
+.primerlogo{
+  margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 30%;
+    height: 30%;
+    margin-top: 30%;
+}
+
+.tituloletra{
+  font-family: 'Anton', sans-serif;
+  color: #F6A800;
+  text-align: center;
+  font-weight: 400%;
+  size: 13px;
+  height: 15%;
+}
+.form-control{
+  font-family: 'Quicksand', sans-serif;
+  size:5px;
+}
+
+.btniniciar{
+  width: 100%;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+}
+
+.questioncero{
+  display: inline;
+}
+.question{
+  color: white;
+}
+.question1{
+  color: white;
+}
+span{
+  color: #F6A800;
+}
+.btniniciar{
+  background-color: #F6A800;
+}
